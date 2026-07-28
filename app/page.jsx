@@ -298,7 +298,6 @@ export default function () {
           <p> Moisture content:  9% </p>
           <p> Purity: 99% natural</p>
           <p>Color: Natural white inside</p>
-          <p>Quality classification: Grade A</p>
           <p>Packaging: 25kg-50kg pp bag or to buyers specification</p>
           <p> Shelf life: up to 6 - 12 months under proper storage</p>
           <p> Inspection: SGS , COTECNA and INTERTEK ETC</p>

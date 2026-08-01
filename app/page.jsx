@@ -14,7 +14,7 @@ export default function () {
         <Image src="/BITTER KOLA2.jpg" width={"200"} height={"100"} alt="" className="items-center" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold"> DRY BITTER KOLA NUT (GARCINIA KOLA NUT)</h3>
-          <p>FOB PRICE: 24 USD PER KG</p>
+          <p>FOB PRICE: 15 - 25 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
@@ -47,7 +47,7 @@ export default function () {
         <Image src="/Garlic2.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">DEHYDRATED GARLIC(ALLIUM SATIVUM)</h3>
-          <p>FOB PRICE: 14-15 USD PER KG</p>
+          <p>FOB PRICE: 1.9 - 9.05 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
@@ -77,7 +77,7 @@ export default function () {
         <Image src="/alligator pepper.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">ALLIGATOR PEPPER</h3>
-          <p>FOB PRICE: 15-20 USD PER KG</p>
+          <p>FOB PRICE: 20 - 35 USD PER KG</p>
           <p>TRIAL ORDER: 50KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
@@ -106,7 +106,7 @@ export default function () {
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl">
         <Image src="/sesame seed2.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
-          <h3 className="text-2xl text-green-700 font-bold">UNHULLED SESAME SEED </h3>
+          <h3 className="text-2xl text-green-700 font-bold">HULLED SESAME SEED </h3>
           <p>FOB PRICE: 1.25 - 2.50 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
@@ -114,14 +114,14 @@ export default function () {
         </div>
 
         <p className="text-green-800 text-xl pt-5 border-amber-100">
-          A high quality unhulled sesame seed white or brown with , high oil content and 99% sorted to high quality
+          A high quality hulled sesame seed white or brown with , high oil content and 99% sorted to high quality
           Sesame seed is use to manufacture animal feed, biscuit and other ebible and non ebible products
         </p>
 
         <div className="text-blue-600  text-xl pt-5 border-amber-100 ">
-          <h3 className="text-green-700 font-bold">EXPORT SPECIFICATION FOR HIGH QUALITY UNHULLED SESAME SEED</h3>
+          <h3 className="text-green-700 font-bold">EXPORT SPECIFICATION FOR HIGH QUALITY HULLED SESAME SEED</h3>
           <p> Country of Origin: NIGERIA</p>
-          <p>Product type: UNHULLED SESAME SEED</p>
+          <p>Product type: HULLED SESAME SEED</p>
           <p> Moisture content: less than 9%</p>
           <p> Purity: 99% natural</p>
           <p>Inspection: SGS , COTECNA and INTERTEK ETC</p>
@@ -137,7 +137,7 @@ export default function () {
         <Image src="/GINGER3.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">DRIED NONSPLIT GINGER(RHIZOMA)</h3>
-          <p>FOB PRICE: 1.5 - 9.00 USD PER KG</p>
+          <p>FOB PRICE: 8.00 - 9.00 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
@@ -166,7 +166,7 @@ export default function () {
         <Image src="/images (7).jpg" width={"200"} height={100} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">UNSHELLED RAW CASHEW NUTS</h3>
-          <p>FOB PRICE: 0.5 - 1.00 USD PER KG</p>
+          <p>FOB PRICE: 1.15 - 2.20 USD PER KG</p>
           <p>TRIAL ORDER: 500KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 5-20TONNES PER MONTH</p>
@@ -196,7 +196,7 @@ export default function () {
         <Image src="/Garri floor.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">PROCESSED CASSAVA FLAKES(GARRI)</h3>
-          <p>FOB PRICE: 0.2 - 0.25 USD PER KG</p>
+          <p>FOB PRICE: 15 - 25 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
@@ -305,7 +305,7 @@ export default function () {
       </div>
     
         <div className ="flex flex-row p-5 gap-5 shadow-2xl bg-white justify-center items-center rounded-3xl">
-          <h2 className="text-green-700 text-xl">CONTACT</h2>: <WhatsAppButton /> <p className="text-xl text-blue-600"> PHONE NO : +234 8037028669</p>  <p className="text-green-700 text-xl">ADDRESS: PLOT NO 15 ZONE C EHIMIRI ESTATE UMUAHIA</p>
+          <h2 className="text-green-700 text-xl">CONTACT</h2>: <WhatsAppButton /> <p className="text-xl text-blue-600"> PHONE/WHATSAPP NO : +234 8037028669</p>  <p className="text-green-700 text-xl">ADDRESS: PLOT NO 15 ZONE C EHIMIRI ESTATE UMUAHIA</p>
           <a className="text-xl text-blue-700" href="mailto:encocorporatelink@gmail.com "> Email us: encocorporatelink@gmail.com </a>
         </div>
     </div>

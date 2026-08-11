@@ -12,13 +12,13 @@ export default function () {
 
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl ">
         <Image src="/BITTER KOLA2.jpg" width={"200"} height={"100"} alt="" className="items-center" />
-        
+        <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold"> DRY BITTER KOLA NUT (GARCINIA KOLA NUT)</h3>
           <p>FOB PRICE: 15 - 25 USD PER KG</p>
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
-        
+        </div>
 
         <p className="text-green-800 text-xl pt-5 border-amber-100"> BITTER KOLA NUT(GARCINIA KOLA NUT) It is an ebible nut produced by BITTER KOLA tree
           found mostly in Tropical west/central africa and asia. it have numerious health benefits and can be use
@@ -26,7 +26,7 @@ export default function () {
           as a stimulants,antiviral and anti-inflammentory.
         </p>
 
-        
+        <div className="text-blue-600  text-xl pt-5 border-amber-100 "> 
           <h3 className="text-green-700 font-bold">EXPORT SPECIFICATION FOR HIGH QUALITY BITTER KOLA </h3>
 
           <p>Country of Origin: NIGERIA.</p>
@@ -40,7 +40,7 @@ export default function () {
           <p>Payment method: T/T, T/C , ADVANCE PAYMENT 100% irrevocable.</p>
           <p>Inspection: SGS, COTECNA AND INTERTEK.</p>
         
-
+       </div>
       </div>
 
       <div className=" flex flex-col p-20 justify-center  align-center shadow-2xl rounded-3xl bg-white" >

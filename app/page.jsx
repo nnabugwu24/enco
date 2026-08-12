@@ -9,9 +9,16 @@ export default function () {
 
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
+    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
 
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl ">
         <Image src="/BITTER KOLA2.jpg" width={"200"} height={"100"} alt="" className="items-center" />
+        <script type="text/javascript">
+    aclib.runAutoTag({
+        zoneId: '2rhek7dpvb',
+    });
+</script>
+
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold"> DRY BITTER KOLA NUT (GARCINIA KOLA NUT)</h3>
           <p>FOB PRICE: 15 - 25 USD PER KG</p>

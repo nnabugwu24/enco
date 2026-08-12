@@ -11,7 +11,12 @@ export default function () {
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
     <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
-<script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+                                                      <script type="text/javascript">
+    aclib.runPop({
+        zoneId: '11953766',
+    });
+</script>
+
 
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl ">
         <Image src="/BITTER KOLA2.jpg" width={"200"} height={"100"} alt="" className="items-center" />
@@ -33,6 +38,14 @@ export default function () {
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
         </div>
+        <div>
+    <script type="text/javascript">
+        aclib.runBanner({
+            zoneId: '11953774',
+        });
+    </script>
+</div>
+
 
         <p className="text-green-800 text-xl pt-5 border-amber-100"> BITTER KOLA NUT(GARCINIA KOLA NUT) It is an ebible nut produced by BITTER KOLA tree
           found mostly in Tropical west/central africa and asia. it have numerious health benefits and can be use

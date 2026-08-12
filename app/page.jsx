@@ -170,6 +170,7 @@ export default function () {
           A high quality hulled sesame seed white or brown with , high oil content and 99% sorted to high quality
           Sesame seed is use to manufacture animal feed, biscuit and other ebible and non ebible products
         </p>
+        https://vast.yomeno.xyz/vast?spot_id=1498658
 
         <div className="text-blue-600  text-xl pt-5 border-amber-100 ">
           <h3 className="text-green-700 font-bold">EXPORT SPECIFICATION FOR HIGH QUALITY HULLED SESAME SEED</h3>
@@ -205,14 +206,15 @@ export default function () {
           <p>TRIAL ORDER: 150KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
-
+                                                           https://vast.yomeno.xyz/vast?spot_id=1498658
         </div>
+        <div data-banner-id="1498661"></div>
         <p className="text-green-800 text-xl pt-5 border-amber-100">
           GINGER(RHIZOMA) : Have been use to manufacture many health related health products due to its
           anti-inflammatory,anti-nausea and other properties.Our ginger is cultivated locally here
           and processed to 99% purity here  in nigeria
 
-        </p>
+        </p> <div data-banner-id="1498660"></div>                 <div data-banner-id="1498659"></div>
         <div className="text-blue-600  text-xl pt-5 border-amber-100 ">
           <h3 className="text-green-700 font-bold"> EXPORT SPECIFICATION FOR HIGH QUALITY DRIED NON SPLIT GINGER </h3>
           <p> Country of Origin: NIGERIA</p>

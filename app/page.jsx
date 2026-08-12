@@ -3,13 +3,16 @@ import Image from "next/image";
 import React from "react";
 import Header from "./components/Header";
 import WhatsAppButton from "./components/WhatsAppButton";
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8905718966138726"
+     crossorigin="anonymous"></script>
 export default function () {
   return (
    
 
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8905718966138726"
+     crossorigin="anonymous"></script>
       <script src="https://pl30812079.effectivecpmnetwork.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
 
     <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>

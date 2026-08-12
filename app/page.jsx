@@ -11,7 +11,7 @@ export default function () {
       <Header />
       
       <script src="https://pl30812079.effectivecpmnetwork.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
-
+google.com, pub-8905718966138726, DIRECT, f08c47fec0942fa0
     <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
                                                       <script type="text/javascript">
     aclib.runPop({

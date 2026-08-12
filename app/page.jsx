@@ -6,11 +6,16 @@ import WhatsAppButton from "./components/WhatsAppButton";
 
 export default function () {
   return (
+   <script> https://adbpage.com/adblock?v=3 </script> 
 
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
     <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
-
+<script type="text/javascript">
+  aclib.runAutoTag({
+      zoneId: '3xa50eeefo',
+  });
+</script>
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl ">
         <Image src="/BITTER KOLA2.jpg" width={"200"} height={"100"} alt="" className="items-center" />
         <script type="text/javascript">

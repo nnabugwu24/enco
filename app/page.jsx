@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import Header from "./components/Header";
 import WhatsAppButton from "./components/WhatsAppButton";
-
+<meta name="monetag" content="3af7e092b5443f1e0b68168463c9ef1b">
 export default function () {
   return (
    

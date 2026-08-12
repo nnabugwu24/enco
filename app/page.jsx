@@ -10,6 +10,8 @@ export default function () {
 
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
+      <script src="https://pl30812079.effectivecpmnetwork.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
+
     <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
                                                       <script type="text/javascript">
     aclib.runPop({
@@ -162,6 +164,7 @@ export default function () {
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
         </div>
+        https://www.effectivecpmnetwork.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
 
         <p className="text-green-800 text-xl pt-5 border-amber-100">
           A high quality hulled sesame seed white or brown with , high oil content and 99% sorted to high quality
@@ -183,6 +186,17 @@ export default function () {
         </div>
 
       </div>
+          <script>
+  atOptions = {
+    'key' : '547a603a7f4a5d4dffe2de458276a4ed',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/547a603a7f4a5d4dffe2de458276a4ed/invoke.js"></script>
+
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl gap-5">
         <Image src="/GINGER3.jpg" width={"200"} height={"100"} alt="" />
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
@@ -301,6 +315,8 @@ export default function () {
       </div>
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl">
         <Image src="/Egwuisi.jpg" width={"200"} height={"100"} alt="" />
+        <script src="https://pl30812082.effectivecpmnetwork.com/96/46/aa/9646aad84f73c0fe9c97d24111269ede.js"></script>
+
         <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">EGWUISI SEED(MELON SEED)</h3>
           <p>FOB PRICE: 15 - 25 USD PER KG</p>
@@ -329,6 +345,17 @@ export default function () {
       </div>
         <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl">
           <Image src="/yam 3.jpg" width={"200"} height={"100"} alt="" />
+          <script>
+  atOptions = {
+    'key' : '63f5b45b37785a4fd785cc2efa52a937',
+    'format' : 'iframe',
+    'height' : 60,
+    'width' : 468,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/63f5b45b37785a4fd785cc2efa52a937/invoke.js"></script>
+
           <div className="text-blue-700 text-xl pt-5 border-amber-700">
           <h3 className="text-2xl text-green-700 font-bold">RAW YAM TUBER (DIOSCORES)</h3>
           <p>FOB PRICE: 2.5 - 4.8 USD PER KG</p>
@@ -352,7 +379,10 @@ export default function () {
           <p> Shelf life: up to 6 - 12 months under proper storage</p>
           <p> Inspection: SGS , COTECNA and INTERTEK ETC</p>
         </div>
-      </div>
+      </div
+      <script async="async" data-cfasync="false" src="https://pl30812080.effectivecpmnetwork.com/6274a3784c74050786e8aa3ffe2fd4af/invoke.js"></script>
+<div id="container-6274a3784c74050786e8aa3ffe2fd4af"></div>
+
     
         <div className ="flex flex-row p-5 gap-5 shadow-2xl bg-white justify-center items-center rounded-3xl">
           <h2 className="text-green-700 text-xl">CONTACT</h2>: <WhatsAppButton /> <p className="text-xl text-blue-600"> PHONE/WHATSAPP NO : +234 8037028669</p>  <p className="text-green-700 text-xl">ADDRESS: PLOT NO 15 ZONE C EHIMIRI ESTATE UMUAHIA</p>

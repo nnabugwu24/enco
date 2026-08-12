@@ -16,6 +16,18 @@ export default function () {
         zoneId: '11953766',
     });
 </script>
+                                <script>
+    const player = videojs("my-video");
+    player.ima({
+        adTagUrl: "https://youradexchange.com/video/select.php?r=11953858",
+    });
+</script> 
+      <script type="text/javascript">
+    aclib.runInterstitial({
+        zoneId: '11953898',
+    });
+</script>
+
 
 
       <div className="flex flex-col p-20 justify-center align-center shadow-2xl bg-white rounded-3xl ">
@@ -39,7 +51,11 @@ export default function () {
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
         </div>
         <div>
-    <script type="text/javascript">
+    <script type="text/javascript">                                                              <script type="text/javascript">
+    aclib.runVideoSlider({
+        zoneId: '11953838',
+    });
+</script>
         aclib.runBanner({
             zoneId: '11953774',
         });
@@ -51,7 +67,13 @@ export default function () {
           found mostly in Tropical west/central africa and asia. it have numerious health benefits and can be use
           in treatment of hepatitis,infections and to boost immune system.it is use traditional for medicinal purposes
           as a stimulants,antiviral and anti-inflammentory.
-        </p>
+        </p>   <script type="text/javascript">
+    aclib.runInPagePush({
+        zoneId: '11953906',
+        maxAds: 2,
+    });
+</script>
+
 
         <div className="text-blue-600  text-xl pt-5 border-amber-100 "> 
           <h3 className="text-green-700 font-bold">EXPORT SPECIFICATION FOR HIGH QUALITY BITTER KOLA </h3>

@@ -17,6 +17,15 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
         adTagUrl: "https://youradexchange.com/video/select.php?r=11953858",
     });
 </script> 
+<script type="text/javascript">                                                              <script type="text/javascript">
+    aclib.runVideoSlider({
+        zoneId: '11953838',
+    });
+</script>
+        aclib.runBanner({
+            zoneId: '11953774',
+        });
+    </script>
       <script type="text/javascript">
     aclib.runInterstitial({
         zoneId: '11953898',

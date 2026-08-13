@@ -108,7 +108,17 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 600KG-20TONNES PER MONTH</p>
 
-        </div>
+        </div>  <script>
+  atOptions = {
+    'key' : '63f5b45b37785a4fd785cc2efa52a937',
+    'format' : 'iframe',
+    'height' : 60,
+    'width' : 468,
+    'params' : {}
+  };
+</script>
+<script src="https://gasptournament.com/63f5b45b37785a4fd785cc2efa52a937/invoke.js"></script>
+
 
         <p className="text-green-800 text-xl pt-5 border-amber-100">
           DEHYDRATED GARLIC(ALLIUM SATIVUM): Has been used for medicinal purposes in many cultures for centuries and  it is used
@@ -142,7 +152,8 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
         <p className="text-green-800 text-xl pt-5 border-amber-100"> ALLIGATOR PEPPER: Is a potent west african spices, closely related to ginger. its sharp aromatic
             seed are widely use in traditional medicine,cultural ceremonies and to flavor regional dishes
             like pepper soup
-        </p>
+        </p> <script src="https://gasptournament.com/96/46/aa/9646aad84f73c0fe9c97d24111269ede.js"></script>
+
 
 
         <div className="text-blue-600  text-xl pt-5 border-amber-100 "> 
@@ -155,7 +166,17 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
           <p>Packaging: 25kg-50kg pp bag or to buyers specification</p>
           <p> Shelf life: up to 12 months under proper storage</p>
           <p>Inspection: SGS , COTECNA and INTERTEK ETC</p>
-        </div>
+        </div>                    <script>
+  atOptions = {
+    'key' : '547a603a7f4a5d4dffe2de458276a4ed',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://gasptournament.com/547a603a7f4a5d4dffe2de458276a4ed/invoke.js"></script>
+
 
       </div>
 
@@ -228,7 +249,9 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
           <p>Inspection: SGS , COTECNA AND INTERTEK ETC</p>
           <p>Packaging: 25kg-50kg pp bag or to buyers specification</p>
           <p> Shelf life: up to 12 months under proper storage</p>
-        </div>
+        </div><script async="async" data-cfasync="false" src="https://gasptournament.com/6274a3784c74050786e8aa3ffe2fd4af/invoke.js"></script>
+<div id="container-6274a3784c74050786e8aa3ffe2fd4af"></div>
+
 
       </div>
 
@@ -240,7 +263,7 @@ https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
           <p>TRIAL ORDER: 500KG PER WEEK</p>
           <p>DELIVERY TIME: 14DAYS-30DAYS AFTER CONFIRMATION OF T/T ,T/C OR ADVANCE PAYMENT(50% UPFRONT)</p>
           <p>SUPPLY CAPACITY: 5-20TONNES PER MONTH</p>
-        </div>
+        </div>  https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
         <p className="text-green-800 text-xl pt-5 border-amber-100">
           UNSHELLED RAW CASHEW NUTS : It is mostly grow in africa and other part of the world .
           Cashew nuts are use in manufacture of so many ebible food products and it is source of some chemical

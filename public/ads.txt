@@ -1,1 +1,25 @@
 https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
+<script src="https://gasptournament.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
+
+      
+      
+      <script src="https://pl30812079.effectivecpmnetwork.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
+
+    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+                                                      <script type="text/javascript">
+    aclib.runPop({
+        zoneId: '11953766',
+    });
+</script>
+                                <script>
+    const player = videojs("my-video");
+    player.ima({
+        adTagUrl: "https://youradexchange.com/video/select.php?r=11953858",
+    });
+</script> 
+      <script type="text/javascript">
+    aclib.runInterstitial({
+        zoneId: '11953898',
+    });
+</script>
+

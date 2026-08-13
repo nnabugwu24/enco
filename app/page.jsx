@@ -3,14 +3,16 @@ import Image from "next/image";
 import React from "react";
 import Header from "./components/Header";
 import WhatsAppButton from "./components/WhatsAppButton";
-<meta name="monetag" content="3af7e092b5443f1e0b68168463c9ef1b">
+
 export default function () {
   return (
    
-
+https://gasptournament.com/uqub01sriy?key=b10ceac1e9bf6915826d9e48a5b4f7cf
     <div className="flex flex-col h-vh w-100% p-10 bg-gray-200 gap-10" >
       <Header />
-      <meta name="monetag" content="3af7e092b5443f1e0b68168463c9ef1b">
+    <script src="https://gasptournament.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
+
+      
       
       <script src="https://pl30812079.effectivecpmnetwork.com/9a/4e/de/9a4ede3807023555efba120805133190.js"></script>
 
